@@ -14,7 +14,7 @@ A comprehensive **Cafe & Restaurant Management System** built with **MERN Stack*
   Multi-tier authentication with role-based permissions for staff hierarchy.
 
 - � **Payment Processing**  
-  Integrated payment gateway supporting multiple payment methods.
+  Integrated payment gateway supporting payment methods.
 
 - 📄 **Digital Receipts**  
   Automated invoice generation with detailed order breakdown and analytics.
